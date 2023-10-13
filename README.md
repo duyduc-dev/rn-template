@@ -20,5 +20,5 @@
 ## Create a project with this template
 Replace `SomeApp` with your preferred project name.
 ```bash
-npx react-native init SomeApp --template https://github.com/xubmuajkub/rn-template.git
+npx react-native init SomeApp --template https://github.com/duyduc-dev/rn-template.git
 ```
